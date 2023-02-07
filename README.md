@@ -2,10 +2,9 @@
 - 👀 Tenho interesse em C# | Asp.net mvc
 - 💞️ Estudar e aprender cada dia mais
 - 📫 Futuro Full Stack Completo
-
+<h2>Hello, Devs!!<h2>
  <div>
-  <h2>Hello, Devs!!<h2>
-   <h4>Tenho 39 anos, moro em Diadema/SP e sou apaixonado por programação! venho alguns anos estudando e me dedeicando na programação,quanto mais eu aprendo , mais eu gosto de tudo isso<h4>
+  <h4>Tenho 39 anos, moro em Diadema/SP e sou apaixonado por programação! venho alguns anos estudando e me dedeicando na programação,quanto mais eu    aprendo , mais eu gosto de tudo isso<h4>
    
  <div>
 <div>
