@@ -9,7 +9,7 @@
 </div>
 <h2>Hello, Devs!!<h2>
  <div>
-  <h3>Tenho 39 anos, moro em Diadema/SP e sou apaixonado por programação! venho em busca de uma transição de carreira , trabalhei 17 anos no seguimento logístico e hoje com muito esforço venho encarar o que sempre busquei que é a programação, estudo e me dedico muito,quanto mais eu aprendo , mais eu gosto de tudo isso.<h3>
+  <smal>Tenho 39 anos, moro em Diadema/SP e sou apaixonado por programação! venho em busca de uma transição de carreira , trabalhei 17 anos no seguimento logístico e hoje com muito esforço venho encarar o que sempre busquei que é a programação, estudo e me dedico muito,quanto mais eu aprendo , mais eu gosto de tudo isso.<smal>
    
  <div>
 <div>
