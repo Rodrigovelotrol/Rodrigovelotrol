@@ -3,7 +3,7 @@
 - 💞️ Estudar e aprender cada dia mais
 - 📫 Futuro Full Stack Completo
 
-       <i class="devicon-javascript-plain colored"></i>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
           
 
 <!---
