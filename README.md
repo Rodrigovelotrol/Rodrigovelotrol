@@ -1,8 +1,8 @@
-- 👋 Olá eu sou Rodrigo dos Santos
-- 👀 Estou interessado em Programação c#
-- 🌱 Atualmente demore aprendendo 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Olá me chamo Rodrigo dos Santos
+- 👀 Estou interessado em desenvolvimento c#
+- 🌱 Atualmente desenvolvo projetos
+- 💞️ Estudar ,aprender cada dia mais
+- 📫 Futuro Full Stack Completo
 
 <!---
 Rodrigovelotrol/Rodrigovelotrol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
