@@ -3,6 +3,9 @@
 - 💞️ Estudar e aprender cada dia mais
 - 📫 Futuro Full Stack Completo
 
+ <div>
+  <h2>Rodrigo dos Santos<h2>
+ <div>
 <div>
  <h2>Tecnologias<h2>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
