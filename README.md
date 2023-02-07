@@ -4,8 +4,10 @@
 - 📫 Futuro Full Stack Completo
 
  <div>
-  <h2>Rodrigo dos Santos<h2>
-   <label>Hello, Devs!!<label>
+  
+   <label>
+    Hello, Devs!!
+    <label>
  <div>
 <div>
  <h2>Tecnologias<h2>
