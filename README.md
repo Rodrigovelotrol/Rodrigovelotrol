@@ -1,7 +1,6 @@
 - 👋 Olá me chamo Rodrigo dos Santos
-- 👀 Estou interessado em desenvolvimento c#
-- 🌱 Atualmente desenvolvo projetos
-- 💞️ Estudar ,aprender cada dia mais
+- 👀 Tenho interesse em C# | Asp.net mvc
+- 💞️ Estudar e aprender cada dia mais
 - 📫 Futuro Full Stack Completo
 
 <!---
