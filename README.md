@@ -9,7 +9,7 @@
 </div>
 <h2>Hello, Devs!!<h2>
  <div>
-  <h6>Tenho 39 anos, moro em Diadema/SP e sou apaixonado por programação! venho alguns anos estudando e me dedicando na programação,quanto mais eu    aprendo , mais eu gosto de tudo isso<h6>
+  <label>Tenho 39 anos, moro em Diadema/SP e sou apaixonado por programação! venho alguns anos estudando e me dedicando na programação,quanto mais eu    aprendo , mais eu gosto de tudo isso<label>
    
  <div>
 <div>
