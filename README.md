@@ -2,7 +2,9 @@
 - 👀 Tenho interesse em C# | Asp.net mvc
 - 💞️ Estudar e aprender cada dia mais
 - 📫 Futuro Full Stack Completo
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
+       <i class="devicon-javascript-plain colored"></i>
+          
 
 <!---
 Rodrigovelotrol/Rodrigovelotrol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
