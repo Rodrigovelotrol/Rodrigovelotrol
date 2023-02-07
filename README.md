@@ -4,10 +4,8 @@
 - 📫 Futuro Full Stack Completo
 
  <div>
-  
-   <label>
-    Hello, Devs!!
-    <label>
+  <h2>Hello, Devs!!<h2>
+   
  <div>
 <div>
  <h2>Tecnologias<h2>
