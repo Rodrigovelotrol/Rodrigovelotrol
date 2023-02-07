@@ -5,7 +5,7 @@
 
  <div>
   <h2>Rodrigo dos Santos<h2>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" width="40" height="40"/>
+   <label>Hello, Devs!!<label>
  <div>
 <div>
  <h2>Tecnologias<h2>
