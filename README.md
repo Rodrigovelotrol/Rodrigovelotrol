@@ -1,5 +1,6 @@
  <div>
-  <h2>Rodrigo dos Santos<h2>
+  <h2>Contatos
+  <h2>
    <div>
 <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/rodrigosistemas?igshid=ZDdkNTZiNTM=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -9,7 +10,7 @@
 </div>
 <h2>Hello, Devs!!<h2>
  <div>
-  <h6>Tenho 39 anos, moro em Diadema/SP e sou apaixonado por programação! venho em busca de uma transição de carreira , trabalhei 17 anos no seguimento logístico e hoje com muito esforço venho a encarar o que sempre busquei que é a programação, estudo e me dedico muito,quanto mais eu aprendo , mais eu gosto de tudo isso.</h6>
+  <h6>Meu nome é Rodrigo dos Santos Tenho 39 anos, moro em Diadema/SP e sou apaixonado por programação! venho em busca de uma transição de carreira , trabalhei 17 anos no seguimento logístico e hoje com muito esforço venho a encarar o que sempre busquei que é a programação, estudo e me dedico muito,quanto mais eu aprendo , mais eu gosto de tudo isso.</h6>
    
  <div>
 <div>
