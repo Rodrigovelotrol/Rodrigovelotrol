@@ -10,7 +10,7 @@
 </div>
 <h2>Hello, Devs!!<h2>
  <div>
-  <h6>:arrow_right: Meu nome é Rodrigo dos Santos Tenho 39 anos,
+  <h6>:black_small_square: Meu nome é Rodrigo dos Santos Tenho 39 anos,
  moro em Diadema/SP e sou apaixonado por programação!
  venho em busca de uma transição de carreira ,
  trabalhei 17 anos no seguimento logístico e hoje com
