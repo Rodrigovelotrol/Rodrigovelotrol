@@ -16,8 +16,7 @@
  trabalhei 17 anos no seguimento logístico e hoje com
  muito esforço venho a encarar o que sempre busquei que é a programação,
  estudo e me dedico muito,quanto mais eu aprendo , mais eu gosto de tudo isso.</h6>
-  - HTML,CSS, javascript
-  - c#, Sql server 
+  
  </sub>
  
 <div>
