@@ -18,6 +18,7 @@
  estudo e me dedico muito,quanto mais eu aprendo , mais eu gosto de tudo isso.</h6>
    
  <div>
+<P> tenho conhecimento em algumas linguagens </P>
 <div>
  <h2>Tecnologias <h2>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
