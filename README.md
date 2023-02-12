@@ -15,7 +15,9 @@
  venho em busca de uma transição de carreira ,
  trabalhei 17 anos no seguimento logístico e hoje com
  muito esforço venho a encarar o que sempre busquei que é a programação,
- estudo e me dedico muito,quanto mais eu aprendo , mais eu gosto de tudo isso.</h6>
+ Nunca trabalhei em uma equipe porém espero uma oportunidade na área,
+ Tenho conhecimento em HTML, CSS, Javascript, Bootstrap, Jquery,c#,
+ Asp.net MVC , SQL Server </h6>
   
  </sub>
  
