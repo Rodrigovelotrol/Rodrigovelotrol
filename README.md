@@ -11,8 +11,9 @@
 <h2>Hello, Devs!!<h2>
  <div>
   <sub> Meu nome é Rodrigo dos Santos Tenho 39 anos,
- moro em Diadema/SP e sou apaixonado por programação!
- venho em busca de uma transição de carreira ,
+  Sou graduado em gestão em sistemas da Informação,
+  moro em Diadema/SP e sou apaixonado por programação!
+  venho em busca de uma transição de carreira ,
  trabalhei 17 anos no seguimento logístico e hoje com
  muito esforço venho a encarar o que sempre busquei que é a programação,
  Nunca trabalhei em uma equipe porém efetuei alguns projetos solo 
