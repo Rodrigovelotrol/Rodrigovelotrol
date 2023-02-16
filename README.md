@@ -16,7 +16,7 @@
   venho em busca de uma transição de carreira ,
  trabalhei 17 anos no seguimento logístico e hoje com
  muito esforço venho a encarar o que sempre busquei que é a programação,
- Nunca trabalhei em uma equipe porém efetuei alguns projetos solo 
+ Nunca trabalhei em uma equipe como progamador porém efetuei alguns projetos solo 
  E no momento espero uma oportunidade na área, 
  Tenho habilidade em HTML, CSS, Javascript, Bootstrap, Jquery, C#,
  Asp.net MVC , SQL Server , Ajax , Web API .
