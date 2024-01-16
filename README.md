@@ -16,14 +16,14 @@
   <h5>Sobre Mim</h5> 
 
 - 🌐 Desenvolvedor Full Stack
-- 🎓 Bacharel em Ciência da Computação
-- 📍 Localização: Sua Cidade, Seu País
+- 🎓 Tecn[ologo em Sistemas da Computação
+- 📍 Localização: Diadema, Brasil
 
 ## Habilidades
 
-- 💻 Linguagens: JavaScript (Node.js, React), Python
-- 🛠️ Tecnologias: HTML, CSS, Git
-- 🗃️ Bancos de Dados: MongoDB, MySQL
+- 💻 Linguagens: JavaScript (Jquery, Ajax), Asp.net Mvc , C#
+- 🛠️ Tecnologias: HTML, CSS, Linq, Windows Forms
+- 🗃️ Bancos de Dados: Sql Server, MySQL
   
  <div>
   <p>Projetos Destacados</p> 
