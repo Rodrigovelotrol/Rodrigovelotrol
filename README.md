@@ -28,32 +28,30 @@
  <div><br>
   Projetos Destacados
 
-1. **[Nome do Projeto 1](link_para_projeto1)**
+1. **PetShop Online(link_para_projeto1)**
    - Descrição concisa do projeto.
    - Tecnologias utilizadas: Listar as principais tecnologias.
 
-2. **[Nome do Projeto 2](link_para_projeto2)**
+2. **Sistema para Igreja(link_para_projeto2)**
    - Descrição concisa do projeto.
    - Tecnologias utilizadas: Listar as principais tecnologias.
+   - 
 
 ## Experiência Profissional
 
-### [Nome da Empresa](link_para_empresa) - Desenvolvedor Full Stack (MM/AAAA - Presente)
+### [Autonomo](Free-lancer) - Desenvolvedor Full Stack (06/2018 Presente)
 
 - Descreva suas responsabilidades e realizações durante o período de trabalho.
 
-### [Outra Empresa](link_para_empresa) - Estágio em Desenvolvimento de Software (MM/AAAA - MM/AAAA)
-
-- Descreva suas responsabilidades e realizações durante o período de estágio.
 
 ## Educação
 
-- 🎓 Bacharelado em Ciência da Computação
-  - Universidade XYZ, Ano de Conclusão: 20XX
+- 🎓 Tecnologo em Sistemas da Informacao
+  - Universidade bandeirantes de Sao paulo, Ano de Conclusão: 2008
 
 ## Contato
 
-- 📧 Email: seu.email@example.com
+- 📧 Email: loadsoftware2023@gmail.com
 - 🔗 LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seu-linkedin/)
 - 🌐 Portfolio: [Seu Portfolio](https://seu-portfolio.com)
 
