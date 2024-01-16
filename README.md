@@ -25,7 +25,7 @@
 - 🛠️ Tecnologias: HTML, CSS, Linq, Windows Forms
 - 🗃️ Bancos de Dados: Sql Server, MySQL
   
- <div>
+ <div><br>
   <p>Projetos Destacados</p> 
   **Loja Online E-Commerce**
    - Descrição: loja online completa com funcionalidades de carrinho de compras, autenticação de usuários e pagamento online.
