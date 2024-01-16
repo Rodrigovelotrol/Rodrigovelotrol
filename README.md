@@ -8,19 +8,20 @@
 <a href = "https://https://v8santos2020@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rodrigo-desenvolvedor" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-<h2>Hello, Devs!!<h2>
+<h2>Rodrigo dos santos - Desenvolvedor Full Stack<h2>
  <div>
-  <sub> Meu nome é Rodrigo dos Santos Tenho 39 anos,
-  Sou graduado Sistemas da Informação,
-  moro em Diadema/SP e sou apaixonado por programação!
-  venho em busca de uma transição de carreira ,
- trabalhei 17 anos no seguimento logístico e hoje com
- muito esforço venho a encarar o que sempre busquei que é a programação,
- E no momento espero uma oportunidade na área, 
- Tenho habilidade em HTML, CSS, Javascript, Bootstrap, Jquery, C#,
- Asp.net MVC , SQL Server , Ajax , Web API .
- Contínuo me aprimorando e estudando diariamente para cada  
- Dia estar mais atualizado...</h6>
+  <sub> Bem-vindo ao meu portfólio no GitHub! Eu sou Rodrigo dos Santos, um desenvolvedor full stack apaixonado por criar soluções e desenvolvimento em sistemas Web e Desktop.
+  ## Sobre Mim
+
+- 🌐 Desenvolvedor Full Stack
+- 🎓 Bacharel em Ciência da Computação
+- 📍 Localização: Sua Cidade, Seu País
+
+## Habilidades
+
+- 💻 Linguagens: JavaScript (Node.js, React), Python
+- 🛠️ Tecnologias: HTML, CSS, Git
+- 🗃️ Bancos de Dados: MongoDB, MySQL
   
  </sub>
  <div>
