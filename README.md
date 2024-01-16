@@ -11,12 +11,11 @@
 <h2>Hello, Devs!!<h2>
  <div>
   <sub> Meu nome é Rodrigo dos Santos Tenho 39 anos,
-  Sou graduado em gestão em sistemas da Informação,
+  Sou graduado Sistemas da Informação,
   moro em Diadema/SP e sou apaixonado por programação!
   venho em busca de uma transição de carreira ,
  trabalhei 17 anos no seguimento logístico e hoje com
  muito esforço venho a encarar o que sempre busquei que é a programação,
- Nunca trabalhei em uma equipe como progamador porém efetuei alguns projetos solo 
  E no momento espero uma oportunidade na área, 
  Tenho habilidade em HTML, CSS, Javascript, Bootstrap, Jquery, C#,
  Asp.net MVC , SQL Server , Ajax , Web API .
@@ -31,7 +30,11 @@
    - [Link para o projeto](https://github.com/seu-usuario/loja-online)
 
   **Sistema Online PetShop**
-   - Descrição: Um Sistemas desenvolvido com Asp.net Mvc,Sql server Entity Framework , jquery e ajax, permitindo aos usuários criar chamadas e manipulacoes de agendamentos online, o sistema utiliza area do cliente e area do administrador.
+   - Descrição: Um Sistemas desenvolvido com Asp.net Mvc,Sql server Entity Framework , jquery e ajax, permitindo aos usuários        criar chamadas e manipulacoes de agendamentos online, o sistema utiliza area do cliente e area do administrador.
+   - [Link para o projeto](https://github.com/seu-usuario/blog-pessoal)
+
+   - **Sistema online Igrejas**
+   - Descrição: Um Sistemas desenvolvido com Asp.net Mvc,Sql server Entity Framework , jquery e ajax, permitindo aos usuários        criar Eventos e controle financeiro manipulacoes de todo conteudo da igreja , o sistema utiliza area do cliente e area do administrador.
    - [Link para o projeto](https://github.com/seu-usuario/blog-pessoal)
  </div>
  
