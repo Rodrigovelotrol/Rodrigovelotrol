@@ -10,7 +10,7 @@
 </div>
 <h2>Rodrigo dos santos - Desenvolvedor Full Stack<h2>
  <div>
-  <sub> Bem-vindo ao meu portfólio no GitHub! Eu sou Rodrigo dos Santos, um desenvolvedor full stack apaixonado por criar soluções e desenvolvimento em sistemas Web e Desktop.
+  <sub> Bem-vindo ao meu portfólio no GitHub!<br> Eu sou Rodrigo dos Santos, um desenvolvedor full stack apaixonado por criar soluções e desenvolvimento em sistemas Web e Desktop.
  
  </sub>
   <h5>Sobre Mim</h5> 
