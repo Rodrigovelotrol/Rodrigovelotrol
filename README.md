@@ -19,7 +19,7 @@
 - 🎓 Tecnologo em Sistemas da Computação
 - 📍 Localização: Diadema, Brasil
 
-## Habilidades
+<h5>Habilidades</h5> 
 
 - 💻 Linguagens: JavaScript (Jquery, Ajax), Asp.net Mvc , C#
 - 🛠️ Tecnologias: HTML, CSS, Linq, Windows Forms
