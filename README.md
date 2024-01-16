@@ -16,7 +16,7 @@
   <h5>Sobre Mim</h5> 
 
 - 🌐 Desenvolvedor Full Stack
-- 🎓 Tecn[ologo em Sistemas da Computação
+- 🎓 Tecnologo em Sistemas da Computação
 - 📍 Localização: Diadema, Brasil
 
 ## Habilidades
