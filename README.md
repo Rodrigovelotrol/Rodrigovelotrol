@@ -1,78 +1,109 @@
- <div>
-  <h2>Contatos
-  <h2>
-   <div>
-<a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/rodrigosistemas?igshid=ZDdkNTZiNTM=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://twitter.com/Rodrigo96692207/status/1491208091995865088?t=Yno7zzGGym-X6PFxyj1xmQ&s=19" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href = "https://https://v8santos2020@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/rodrigo-desenvolvedor" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-   <body>
-<h2>Rodrigo dos santos - Desenvolvedor Full Stack<h2>
- <div>
-  <sub> Bem-vindo ao meu portfólio no GitHub!<br> Eu sou Rodrigo dos Santos, um desenvolvedor full stack apaixonado por criar soluções e desenvolvimento em sistemas Web e Desktop.
- 
- </sub>
-  <h5>Sobre Mim</h5> 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seu Nome - Portfólio</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
 
-- 🌐 Desenvolvedor Full Stack
-- 🎓 Tecnologo em Sistemas da Computação
-- 📍 Localização: Diadema, Brasil
+        header {
+            text-align: center;
+            padding: 20px;
+            background-color: #333;
+            color: white;
+        }
 
-<h5>Habilidades</h5> 
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            border-radius: 10px;
+        }
 
-- 💻 Linguagens: JavaScript (Jquery, Ajax), Asp.net Mvc , C#
-- 🛠️ Tecnologias: HTML, CSS, Linq, Windows Forms
-- 🗃️ Bancos de Dados: Sql Server, MySQL
-  
- <div><br>
-  Projetos Destacados
+        h1, h2, h3 {
+            color: #333;
+        }
 
-1. **PetShop Online(link_para_projeto1)**
-   - Descrição concisa do projeto.
-   - Tecnologias utilizadas: Listar as principais tecnologias.
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
 
-2. **Sistema para Igreja(link_para_projeto2)**
-   - Descrição concisa do projeto.
-   - Tecnologias utilizadas: Listar as principais tecnologias.
-   - 
+        a:hover {
+            text-decoration: underline;
+        }
 
-## Experiência Profissional
+        p {
+            line-height: 1.6;
+            color: #555;
+        }
 
-### [Autonomo](Free-lancer) - Desenvolvedor Full Stack (06/2018 Presente)
+        .project {
+            margin-bottom: 20px;
+        }
 
-- Descreva suas responsabilidades e realizações durante o período de trabalho.
+        .project img {
+            margin-top: 10px;
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
 
+    <header>
+        <h1>Seu Nome - Desenvolvedor Full Stack</h1>
+        <p>Bem-vindo ao meu portfólio no GitHub! Eu sou Seu Nome, um desenvolvedor full stack apaixonado por criar soluções incríveis.</p>
+    </header>
 
-## Educação
+    <section>
+        <h2>Sobre Mim</h2>
+        <p>Uma breve descrição sobre você e suas paixões na área de desenvolvimento de software.</p>
 
-- 🎓 Tecnologo em Sistemas da Informacao
-  - Universidade bandeirantes de Sao paulo, Ano de Conclusão: 2008
+        <h2>Habilidades</h2>
+        <ul>
+            <li>Linguagens de Programação: JavaScript, Python</li>
+            <li>Web Development: HTML, CSS, React</li>
+            <!-- Adicione mais habilidades conforme necessário -->
+        </ul>
 
-## Contato
+        <h2>Projetos Destacados</h2>
+        <div class="project">
+            <h3>Projeto 1</h3>
+            <img src="link_para_projeto1_imagem" alt="Projeto 1">
+            <p>Descrição envolvente e detalhes do projeto.</p>
+            <a href="link_para_projeto1">Ver Projeto</a>
+        </div>
 
-- 📧 Email: loadsoftware2023@gmail.com
-- 🔗 LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seu-linkedin/)
-- 🌐 Portfolio: [Seu Portfolio](https://seu-portfolio.com)
+        <div class="project">
+            <h3>Projeto 2</h3>
+            <img src="link_para_projeto2_imagem" alt="Projeto 2">
+            <p>Outra descrição atraente e informações importantes sobre este projeto específico.</p>
+            <a href="link_para_projeto2">Ver Projeto</a>
+        </div>
+    </section>
 
-## 🤝 Vamos Colaborar?
+    <section>
+        <h2>Educação</h2>
+        <p>Bacharelado em Ciência da Computação na Universidade XYZ, Ano de Conclusão: 20XX.</p>
 
-Estou aberto a novos desafios e colaborações. Se você compartilha interesses semelhantes ou está em busca de um desenvolvedor comprometido, entre em contato!
+        <h2>Contato</h2>
+        <p>Email: seu.email@email.com</p>
+        <p>LinkedIn: <a href="link_para_seu_linkedin">Seu LinkedIn</a></p>
+    </section>
 
-Obrigado por visitar meu GitHub. Fique à vontade para explorar meus projetos e entrar em contato. Vamos construir algo incrível juntos! 🚀
- </div>
- 
-<div>
- <h2>Tecnologias <h2>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />                                                                                                            
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" />                                   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>                       </div>                  
 </body>
+</html>
 
 
  
@@ -85,7 +116,4 @@ Obrigado por visitar meu GitHub. Fique à vontade para explorar meus projetos e 
  
           
 
-<!---
-Rodrigovelotrol/Rodrigovelotrol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
