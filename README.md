@@ -25,7 +25,7 @@
   
  </sub>
  <div>
-  <p>Projetos Destacados</p> <br>
+  <p>Projetos Destacados</p> 
   **Loja Online E-Commerce**
    - Descrição: loja online completa com funcionalidades de carrinho de compras, autenticação de usuários e pagamento online.
    - [Link para o projeto](https://github.com/seu-usuario/loja-online)
