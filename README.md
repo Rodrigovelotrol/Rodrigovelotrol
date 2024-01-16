@@ -15,11 +15,11 @@
  
  </sub>
   <h5>Sobre Mim</h5> 
-
+<h5>
 - 🌐 Desenvolvedor Full Stack
 - 🎓 Tecnologo em Sistemas da Computação
 - 📍 Localização: Diadema, Brasil
-
+</h5>
 <h5>Habilidades</h5> 
 
 - 💻 Linguagens: JavaScript (Jquery, Ajax), Asp.net Mvc , C#
