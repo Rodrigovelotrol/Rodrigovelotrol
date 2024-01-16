@@ -13,7 +13,7 @@
   <sub> Bem-vindo ao meu portfólio no GitHub! Eu sou Rodrigo dos Santos, um desenvolvedor full stack apaixonado por criar soluções e desenvolvimento em sistemas Web e Desktop.
  
  </sub>
-  <h4>Sobre Mim</h4> 
+  <h5>Sobre Mim</h5> 
 
 - 🌐 Desenvolvedor Full Stack
 - 🎓 Bacharel em Ciência da Computação
