@@ -8,6 +8,7 @@
 <a href = "https://https://v8santos2020@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rodrigo-desenvolvedor" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+   <body>
 <h2>Rodrigo dos santos - Desenvolvedor Full Stack<h2>
  <div>
   <sub> Bem-vindo ao meu portfólio no GitHub!<br> Eu sou Rodrigo dos Santos, um desenvolvedor full stack apaixonado por criar soluções e desenvolvimento em sistemas Web e Desktop.
@@ -71,7 +72,7 @@ Obrigado por visitar meu GitHub. Fique à vontade para explorar meus projetos e 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" />                                   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>                       </div>                  
-
+</body>
 
 
  
