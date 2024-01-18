@@ -18,7 +18,7 @@
 
 🌐-  Desenvolvedor Full Stack <br>
 🎓-  Tecnologo em Sistemas da Computação<br>
-📍-  Localização: Diadema, Brasil
+📍-  Localização: Diadema, Brasil<br>
 
 <h5>**Habilidades **</h5> 
 
