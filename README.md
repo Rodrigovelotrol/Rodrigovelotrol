@@ -22,9 +22,9 @@
 
 <h5>**Habilidades **</h5> 
 
-💻-  Linguagens: JavaScript (Jquery, Ajax), Asp.net Mvc , C#
-🛠- ️ Tecnologias: HTML, CSS, Linq, Windows Forms
-🗃- ️ Bancos de Dados: Sql Server, MySQL
+💻-  Linguagens: JavaScript (Jquery, Ajax), Asp.net Mvc , C#<br>
+🛠- ️ Tecnologias: HTML, CSS, Linq, Windows Forms<br>
+🗃- ️ Bancos de Dados: Sql Server, MySQL<br>
   
  <div><br>
   Projetos Destacados
